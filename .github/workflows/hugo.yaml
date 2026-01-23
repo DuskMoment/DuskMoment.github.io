@@ -27,8 +27,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          submodules: recursive
-          fetch-depth: 0
+          submodules: false
+          fetch-depth: 1
       - name: Setup Go
         uses: actions/setup-go@v6
         with:
