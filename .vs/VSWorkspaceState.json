@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\js",
+    "\\layouts",
+    "\\resources",
+    "\\resources\\_gen",
+    "\\static",
+    "\\static\\plugins",
+    "\\static\\plugins\\hugrid"
+  ],
+  "SelectedNode": "\\static\\plugins\\hugrid\\hugrid.min.js",
+  "PreviewInSolutionExplorer": false
+}
