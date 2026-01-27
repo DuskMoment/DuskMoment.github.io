@@ -4,13 +4,14 @@
     "\\assets",
     "\\assets\\css",
     "\\assets\\js",
+    "\\data",
+    "\\images",
     "\\layouts",
-    "\\resources",
-    "\\resources\\_gen",
-    "\\static",
+    "\\layouts\\partials",
     "\\static\\plugins",
-    "\\static\\plugins\\hugrid"
+    "\\static\\plugins\\hugrid",
+    "\\themes\\port-hugo"
   ],
-  "SelectedNode": "\\static\\plugins\\hugrid\\hugrid.min.js",
+  "SelectedNode": "\\themes",
   "PreviewInSolutionExplorer": false
 }

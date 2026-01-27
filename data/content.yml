@@ -11,18 +11,18 @@ hero:
   # hero background image
   bg_image: 'images/JP_Backround.png'
   # optional mobile breakpoint background
-  mobile_bg_image: 'images/JP_Backround.jpg'
+  mobile_bg_image: 'images/JP_Backround.png'
 
 ########################### About ##################################
 about:
   enable: true
   image: 'images/ProfilePhoto.jpg'
-  title: 'THIS IS ME'
-  content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, or by email](#contact)!
+  title: 'Whats Up Guys'
+  content: My Name is William Mansfield I have a degree in game programming and I am a Sytems and Tools Programmer. Some of my favorite games are Gears of War and overwatch! You can download my resume below
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
-    link: #
+    link: https://drive.google.com/uc?export=download&id=13QxhWlSMEsLVMuXSnM7xBGS6UpI54eX-
     icon: 'fa-download'
 
 ###########################3 Experience ##############################
@@ -33,29 +33,30 @@ experience:
     - name: Peer Tutor
       company: Champlain College
       duration: '2025-Current'
-      content: I make websites.
+      content: For my senior year of college, I was a peer coach at Champlain College and tutored students in game programming courses, from game architecture to graphics!
 
     - name: Unity Engineer Intern
       company: WonderWall JP
       duration: 'May 2025 - June 2025'
-      content: Okay. This is hard to explain but I’m going to give it a shot. You and I are opening our own private detective agency.
-
+      content: I worked on an international team to create features for the Golfin the golfing game on the App Store. I was responsible for screen shake, UI tweaks for account validation, and some golfer IK. Check it out at the link below! https://play.google.com/store/apps/details?id=com.nextinnovation.golfingame&hl=en-us
 ############################### Skill #################################
 skill:
   enable: true
   title: 'SOME SKILLS'
   showpercent: false
   skill_list:
-    - name: 'React'
+    - name: 'C++'
       percentage: '85%'
 
-    - name: 'Detecting'
+    - name: 'MASM'
       percentage: '93%'
 
-    - name: 'Selling'
+    - name: 'C#'
       #percentage: '25%'
 
-    - name: 'Yelling'
+    - name: 'Unreal'
+      #percentage: '100%'
+    - name: 'Unity'
       #percentage: '100%'
 
 
@@ -83,21 +84,20 @@ portfolio:
     - name: Red Flame And Fable - WIP
       image: 'images/portfolio/redlogoblack.png'
       url: https://captain322.itch.io/redflameandfable
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      description: This is my current capstone game Red Flame and Fable! For this game I worked on the AI and the darkness mechanic in the game. I was also the repo manager on this porject and resposable for code reviews and merges.
 
     - name: Touhou99
       image: 'images/portfolio/touhou.png'
       url: https://tristansa.itch.io/touhou99
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      description: A touhou and tetries 99 inspired bullet hell game. For this game I did the bullet paretern systemm, wave system, and AI creation as well as some networking.
 
     - name: Bisque Bash
       image: 'images/portfolio/bisqueBash.png'
       url: https://zacharyalexander.itch.io/bisque-bash
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      description: Ubisoft Game Labs Competiation best art direction runner up. you play as two claylings tring to escape a kiln. I worked on the networking for this game using the unreal networking subsystem. This game also ran on a dedicated server meaning I also have some AWS experience.
 
     - name: RNG Dice roller using AVR
       image: 'images/portfolio/Bomb.png'
       url: https://drive.google.com/file/d/1ElBfBSOOwV59lHSdFo-LZEtuceg1TGt3/view
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
-     
+      description: This is a research paper using a arduino and AVR code to create a visual dice roller     
         
