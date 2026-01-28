@@ -71,19 +71,12 @@
           {{ range .skill_list }}
           <div class="clearfix">
             <span class="skillbar-title">{{ .name }}</span>
-            {{ if .Site.Data.content.skill.showpercent }}
-            <span class="skill-bar-percent">{{ .percentage }}</span>
-            {{ end }}
-            <div class="skillbar" data-percent="{{ .percentage }}">
-              <div class="skillbar-bar"></div>
-            </div>
           </div>
           {{ end }}
         </div>
       </div>
       {{ end }} {{ end }}
     </div>
-  </div>
 </section>
 <!-- =============================
       End About Me
@@ -117,22 +110,19 @@
         {{ range .portfolio_list }} {{ $image := resources.Get .image }} {{
         $big_image := $image.Fill "780x500 jpg" }} {{ $sm_image := $image.Fill
         "395x250 jpg" }} {{ $parsed_name := replace .name "." "" }}
-        <li>
-          <p id="description-{{ $parsed_name | urlize }}" class="hidden">
-            {{ .description | markdownify }}
-          </p>
-          <a
-            href="{{ .url }}"
-            data-largesrc="{{ $big_image.RelPermalink }}"
-            data-title="{{ .name }}"
-            data-buttontext="SEE SITE"
-          >
-            <img
-              src="{{ $sm_image.RelPermalink }}"
-              alt="{{ $parsed_name }} image"
-            />
-          </a>
-        </li>
+          <li>
+              <p id="description-{{ $parsed_name | urlize }}" class="hidden">
+                  {{ .description | markdownify }}
+              </p>
+              <a href="{{ .url }}"
+                 data-largesrc="{{ $big_image.RelPermalink }}"
+                 data-title="{{ .name }}"
+                 data-buttontext="SEE SITE">
+                  <img src="{{ $sm_image.RelPermalink }}"
+                       alt="{{ $parsed_name }} image" />
+              </a>
+               <h5> {{ .subtitle }} </h5> 
+          </li>
         {{ end }}
       </ul>
     </div>

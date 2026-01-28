@@ -51,7 +51,7 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-copyright = "Copyright Burton Guster &copy;"
+copyright = "Copyright William Mansfield &copy;"
 # Meta data
 description = "Personal Portfolio"
 author = "Burton Guster"
@@ -69,19 +69,19 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/tylersayshi"
+link = "https://github.com/DuskMoment"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/"
+link = "https://www.linkedin.com/in/williammansfield1/"
 
 [[params.social]]
 icon = "fas fa-envelope"
-link = "mailto:guster@burton.com"
+link = "mailto:williammansfield40@gmail.com"
 
 [[params.social]]
-icon = "fab fa-medium"
-link = "https://medium.com/@gusburton"
+icon = "fas fa-gamepad"
+link = "https://dusk-moment.itch.io/"
 
 contentDir = "content/english"
 weight = 1

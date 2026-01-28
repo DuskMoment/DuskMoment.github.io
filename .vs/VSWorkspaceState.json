@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\archetypes",
     "\\assets",
-    "\\assets\\css",
-    "\\assets\\js",
+    "\\assets\\images",
     "\\data",
-    "\\images",
     "\\layouts",
-    "\\layouts\\partials",
+    "\\layouts\\_default",
+    "\\static",
     "\\static\\plugins",
-    "\\static\\plugins\\hugrid",
-    "\\themes\\port-hugo"
+    "\\static\\plugins\\hugrid"
   ],
-  "SelectedNode": "\\themes",
+  "SelectedNode": "\\layouts\\index.html",
   "PreviewInSolutionExplorer": false
 }

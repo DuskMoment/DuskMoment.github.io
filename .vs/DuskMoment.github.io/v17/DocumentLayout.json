@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\data\\content.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\content.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\archetypes\\default.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:archetypes\\default.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\static\\plugins\\hugrid\\hugrid.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\plugins\\hugrid\\hugrid.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\static\\plugins\\hugrid\\hugrid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\plugins\\hugrid\\hugrid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\js\\hugrid.custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\hugrid.custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\preloader.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\preloader.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\scripts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\scripts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hugrid.min.js",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\static\\plugins\\hugrid\\hugrid.min.js",
+              "RelativeDocumentMoniker": "static\\plugins\\hugrid\\hugrid.min.js",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\static\\plugins\\hugrid\\hugrid.min.js",
+              "RelativeToolTip": "static\\plugins\\hugrid\\hugrid.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-28T16:19:53.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hugrid.css",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\static\\plugins\\hugrid\\hugrid.css",
+              "RelativeDocumentMoniker": "static\\plugins\\hugrid\\hugrid.css",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\static\\plugins\\hugrid\\hugrid.css",
+              "RelativeToolTip": "static\\plugins\\hugrid\\hugrid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-28T16:19:52.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\js\\script.js",
+              "RelativeDocumentMoniker": "assets\\js\\script.js",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\js\\script.js",
+              "RelativeToolTip": "assets\\js\\script.js",
+              "ViewState": "AgIAACMBAAAAAAAAAAAswDUBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-28T16:19:45.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hugrid.custom.js",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\js\\hugrid.custom.js",
+              "RelativeDocumentMoniker": "assets\\js\\hugrid.custom.js",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\js\\hugrid.custom.js",
+              "RelativeToolTip": "assets\\js\\hugrid.custom.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-28T16:19:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "menu.html",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\menu.html",
+              "RelativeDocumentMoniker": "layouts\\partials\\menu.html",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\menu.html",
+              "RelativeToolTip": "layouts\\partials\\menu.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-28T16:18:44.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\assets\\css\\style.css",
+              "RelativeToolTip": "assets\\css\\style.css",
+              "ViewState": "AgIAANYEAAAAAAAAAAAnwOYDAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-28T16:10:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "preloader.html",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\preloader.html",
+              "RelativeDocumentMoniker": "layouts\\partials\\preloader.html",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\preloader.html",
+              "RelativeToolTip": "layouts\\partials\\preloader.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-28T15:39:06.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "scripts.html",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\scripts.html",
+              "RelativeDocumentMoniker": "layouts\\partials\\scripts.html",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\scripts.html",
+              "RelativeToolTip": "layouts\\partials\\scripts.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-28T15:38:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hugo.toml",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\hugo.toml",
+              "RelativeDocumentMoniker": "hugo.toml",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\hugo.toml",
+              "RelativeToolTip": "hugo.toml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-28T15:14:32.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "default.md",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\archetypes\\default.md",
+              "RelativeDocumentMoniker": "archetypes\\default.md",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\archetypes\\default.md",
+              "RelativeToolTip": "archetypes\\default.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-28T15:14:12.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "content.yml",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\data\\content.yml",
+              "RelativeDocumentMoniker": "data\\content.yml",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\data\\content.yml",
+              "RelativeToolTip": "data\\content.yml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAD1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-28T15:04:10.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\index.html",
+              "RelativeDocumentMoniker": "layouts\\index.html",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\index.html",
+              "RelativeToolTip": "layouts\\index.html",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwHUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-28T15:03:04.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "footer.html",
+              "DocumentMoniker": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\footer.html",
+              "RelativeDocumentMoniker": "layouts\\partials\\footer.html",
+              "ToolTip": "C:\\Users\\william.mansfield\\Desktop\\portfolio\\DuskMoment.github.io\\layouts\\partials\\footer.html",
+              "RelativeToolTip": "layouts\\partials\\footer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-28T15:45:07.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
