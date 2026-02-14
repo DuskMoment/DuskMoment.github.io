@@ -11,9 +11,8 @@
     "\\resources\\_gen\\images\\images\\portfolio",
     "\\static",
     "\\static\\images",
-    "\\themes",
     "\\themes\\port-hugo"
   ],
-  "SelectedNode": "\\themes\\port-hugo\\exampleSite\\static\\images",
+  "SelectedNode": "\\static\\images\\logo-dark.svg",
   "PreviewInSolutionExplorer": false
 }
