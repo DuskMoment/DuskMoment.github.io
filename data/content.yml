@@ -16,9 +16,9 @@ hero:
 ########################### About ##################################
 about:
   enable: true
-  image: 'images/ProfilePhoto.jpg'
+  image: 'images/catProfile.jpg'
   title: 'Whats Up Guys'
-  content: My Name is William Mansfield I have a degree in game programming and I am a Sytems and Tools Programmer. Some of my favorite games are Gears of War and overwatch! You can download my resume below
+  content: My Name is William Mansfield. I have a degree in game programming, and I am a Systems and Tools Programmer. Some of my favorite games are Gears of War and Overwatch! You can download my resume below.
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
@@ -38,11 +38,11 @@ experience:
     - name: Unity Engineer Intern
       company: WonderWall JP
       duration: 'May 2025 - June 2025'
-      content: I worked on an international team to create features for the Golfin the golfing game on the App Store. I was responsible for screen shake, UI tweaks for account validation, and some golfer IK. Check it out at the link below! [test](https://play.google.com/store/apps/details?id=com.nextinnovation.golfingame&hl=en-us)
+      content: I worked on an international team to create features for the Golfin game on the App Store. I was responsible for screen shake, UI tweaks for account validation, and some golfer IK. Check it out [here](https://play.google.com/store/apps/details?id=com.nextinnovation.golfingame&hl=en-us)! 
 ############################### Skill #################################
 skill:
   enable: true
-  title: 'SOME SKILLS'
+  title: 'SKILLS'
   showpercent: false
   skill_list:
     - name: 'C++'
@@ -85,19 +85,19 @@ portfolio:
       subtitle: Red Flame And Fable - WIP
       image: 'images/portfolio/redlogoblack.png'
       url: https://captain322.itch.io/redflameandfable
-      description: This is my current capstone game Red Flame and Fable! For this game I worked on the AI and the darkness mechanic in the game. I was also the repo manager on this porject and resposable for code reviews and merges.
+      description: This is my current capstone game, Red Flame and Fable! For this game, I worked on the AI and the darkness mechanic. I was also the repo manager on this project and responsible for code reviews and merges.
 
     - name: Touhou99
       subtitle: Touhou99
       image: 'images/portfolio/touhou.png'
       url: https://tristansa.itch.io/touhou99
-      description: A touhou and tetries 99 inspired bullet hell game. For this game I did the bullet paretern systemm, wave system, and AI creation as well as some networking.
+      description: A Touhou-and Tetris-inspired bullet-hell game. For this game, I implemented the bullet pattern system, wave system, and AI creation, as well as some networking.
 
     - name: Bisque Bash
       subtitle: Bisque Bash  
       image: 'images/portfolio/bisqueBash.png'
       url: https://zacharyalexander.itch.io/bisque-bash
-      description: Ubisoft Game Labs Competiation best art direction runner up. you play as two claylings tring to escape a kiln. I worked on the networking for this game using the unreal networking subsystem. This game also ran on a dedicated server meaning I also have some AWS experience.
+      description: Ubisoft Game Labs Competition, best art direction runner-up. You play as two claylings trying to escape a kiln. I worked on the networking for this game using the Unreal Networking Subsystem. This game also ran on a dedicated server, meaning I also have some AWS experience.
 
     - name: RNG Dice roller using AVR
       subtitle: RNG Dice roller using AVR  

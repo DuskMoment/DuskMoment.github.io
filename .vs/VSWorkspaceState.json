@@ -1,15 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\resources",
+    "\\content",
+    "\\data",
     "\\resources\\_gen",
     "\\resources\\_gen\\images",
     "\\resources\\_gen\\images\\images",
     "\\static",
     "\\static\\images",
-    "\\themes",
     "\\themes\\port-hugo"
   ],
-  "SelectedNode": "\\themes\\port-hugo\\exampleSite\\static\\images",
+  "SelectedNode": "\\static\\images\\ProfilePhoto.jpg",
   "PreviewInSolutionExplorer": false
 }
