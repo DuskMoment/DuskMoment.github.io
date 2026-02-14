@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://example.com"
-title = "Port Hugo"
+title = "William Mansfield Portfolio"
 theme = "port-hugo"
 
 ############################# Plugins ##############################
