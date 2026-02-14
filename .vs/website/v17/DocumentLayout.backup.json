@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\static\\images\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\images\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\exampleSite\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exampleSite\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -27,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\archetypes\\default.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:archetypes\\default.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -39,56 +31,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exampleSite\\static\\images\\background.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\static\\images\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\images\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\.hugo_build.lock||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.hugo_build.lock||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\assets\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\themes\\port-hugo\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\port-hugo\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\preloader.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\preloader.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\_default\\list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\baseof.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\_default\\baseof.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\data\\content.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\content.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,24 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "hugo.toml",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\exampleSite\\hugo.toml",
               "RelativeDocumentMoniker": "exampleSite\\hugo.toml",
               "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\exampleSite\\hugo.toml",
               "RelativeToolTip": "exampleSite\\hugo.toml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-14T18:39:16.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\exampleSite\\README.md",
               "RelativeDocumentMoniker": "exampleSite\\README.md",
@@ -123,12 +71,11 @@
               "RelativeToolTip": "exampleSite\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-14T18:39:13.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:39:13.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": ".htaccess",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\static\\.htaccess",
               "RelativeDocumentMoniker": "static\\.htaccess",
@@ -136,12 +83,11 @@
               "RelativeToolTip": "static\\.htaccess",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-14T18:38:58.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:38:58.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "LICENSE",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\LICENSE",
               "RelativeDocumentMoniker": "LICENSE",
@@ -149,12 +95,11 @@
               "RelativeToolTip": "LICENSE",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-14T18:38:52.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:38:52.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -162,12 +107,11 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-14T18:38:38.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:38:38.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "default.md",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\archetypes\\default.md",
               "RelativeDocumentMoniker": "archetypes\\default.md",
@@ -175,36 +119,33 @@
               "RelativeToolTip": "archetypes\\default.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-14T18:38:25.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:38:25.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "background.jpg",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\exampleSite\\static\\images\\background.jpg",
               "RelativeDocumentMoniker": "exampleSite\\static\\images\\background.jpg",
               "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\exampleSite\\static\\images\\background.jpg",
               "RelativeToolTip": "exampleSite\\static\\images\\background.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-02-14T18:37:23.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:37:23.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "favicon.png",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\static\\images\\favicon.png",
               "RelativeDocumentMoniker": "static\\images\\favicon.png",
               "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\static\\images\\favicon.png",
               "RelativeToolTip": "static\\images\\favicon.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-02-14T18:35:28.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:35:28.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": ".hugo_build.lock",
               "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\.hugo_build.lock",
               "RelativeDocumentMoniker": ".hugo_build.lock",
@@ -212,177 +153,7 @@
               "RelativeToolTip": ".hugo_build.lock",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-14T18:33:19.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "logo.svg",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\static\\images\\logo.svg",
-              "RelativeDocumentMoniker": "static\\images\\logo.svg",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\static\\images\\logo.svg",
-              "RelativeToolTip": "static\\images\\logo.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATvSURBVEhLtZZrbFRFFMd/d193724ppYUt2NKHtCAPoYCAgiAIKiRKAMGGgJpoKIJfRIh\u002BMX4RY0KsIESIWBLU4gdqVURJNCiIiYQIbWmxIFCQllcLTbul3b37uHP8cLfbhaIhMZ5k7kwmM//fmTMzZy78nyYi2p19ANXV1duBNdhj6K3vbKeUHStWrFh7u8q/WHV1tdyr1dbWSlVVlezZs2f7nToAjjs7Uq3XQyWCUoIohRKFUgqlLCzL4sKFCyxduhSl1JqKiop\u002BkLsCkqEAQlELK1hL7PonWJcnYNYMpvtng9BvYxDzUnJsaWkplmWt2bp1622QfnuQvvoL1/opvlh86Ciwmpk3fC9j0k5iXD\u002BPisZxBl5COcbhcJpE/tzGwei7LFu2jFgsRiQSYdeuXfj9/h2rVq1a2w8w9PWvC4dkDqwoKRz8\u002BJOTspmZuYn7Yrvo/NXJUVlCI3NIHzaFl2cU4HJo3Pg0m9OFVbS0tBCJRIhGoxQUFHD16lXKyso0AFef\u002BDf5gYy0/U/MGlc8vyjINH0FaZ0HuXRsNvVj36bB9RDnW7u5\u002BMdlrnV08/YzY/EMn8/kyZMoKCggbIYxvAbZ2dlUVlYmnXaQCEtWxoDd82Y9OLL0gRbPLH0JaWcPcmz/LDZa77PneAZtLZ3kBdIZPb6QuqCDd75txF38AobPR25uLsUjisnJycHn8yX3JQnIyhr49Oj8QNGCojZXiWMl7voGTtYtILD8Oz5eXkL5omImpFm0NjaT7nEzJGcItW1hmhyTQAQQRFNJ0X6AAT7XosWTXZmPGGWaq\u002Bk0J2unU/LKAfKzfAAMS/fy4rRcOjpvMdDhxuFy4vL7\u002BLLmalII0RIwUKoP5gLIG6RPmZm12fB1HeX0pefZlLWOjo\u002BOEbOslNuqMHx\u002BTCcYbifidnPqyk0QQbC1e09M6gpcAKunHc/LVZ9rLQcncnj6e4z3BuxJ2B9bwAZZEQurB2JKYcUtFKAJaNigfgDpGTOzp2ObETyky74Z\u002B7UO52D55cAJTcVjtncCQiIPiaCUQhA0hIcLM9HEjk6vI/0BodaFzmvtzn3WumibleGJRq1brmhP\u002Bg\u002BvzyUWj9kC9jQk4a0NtEMiCWUbagfptk2WrvZHg2f0rh\u002BtpTfONbcLSvyB/PvY8FUjp64EiSuhJxqn8VoXr\u002B2tZ86WI8z\u002B4AhzPzxCVe2VpKCG1pdiUlcQatHGeAaqytq64DhPO4MG\u002BLy\u002BnKI8Il3dbDx0iRs3ghgeJ\u002BnpaRSOKmbKSAdtN7u41dTE4gnDEsuzxe8aImViZS6MvZq3vjugm/GfTtWpwpwR\u002Bf7sIQMoLBnN/YnTF41btNwMEmxtJ97RzuZnJ\u002BB0aH2B/wdzaA6\u002Bb/uMN5vLn2sbTv1TWueZmusNdZyuOcPvNWc50fAXp\u002BrP09RwjuDFZgbFeviotISigD95AJKU3ip1DzSXvKG5mX95C7I7460jlb6yA1ON1sMzcvxkhm/hvnmd4WIyNcvF\u002BsfyqVg5kbxMOx3climlD5QKuKtVVFQcFxGJREwxI6aYpimmGRYzHBYzHBIzHJZwOCThUEjC4R4JpdQiIuXl5UnCPz04kwE8Hh3do6PrOrruRfd60b0GuteL12vgNQy8Xh9GSp2Yn9Tq9\u002BAA7Ny5c7uIrOm9vUop\u002B5TcpZAQTG0DOzZs2HDvPwH/xf4Gb5LkTqfRE7EAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-02-14T18:32:14.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "hugo.toml",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\hugo.toml",
-              "RelativeDocumentMoniker": "hugo.toml",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\hugo.toml",
-              "RelativeToolTip": "hugo.toml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAADMAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-14T18:30:38.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "script.js",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\assets\\js\\script.js",
-              "RelativeDocumentMoniker": "assets\\js\\script.js",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\assets\\js\\script.js",
-              "RelativeToolTip": "assets\\js\\script.js",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAQwJsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-14T18:04:46.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\themes\\port-hugo\\README.md",
-              "RelativeDocumentMoniker": "themes\\port-hugo\\README.md",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\themes\\port-hugo\\README.md",
-              "RelativeToolTip": "themes\\port-hugo\\README.md",
-              "ViewState": "AgIAABQAAAAAAAAAAADgvycAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-14T18:04:12.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "preloader.html",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\preloader.html",
-              "RelativeDocumentMoniker": "layouts\\partials\\preloader.html",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\preloader.html",
-              "RelativeToolTip": "layouts\\partials\\preloader.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-14T18:01:50.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "header.html",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\header.html",
-              "RelativeDocumentMoniker": "layouts\\partials\\header.html",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\header.html",
-              "RelativeToolTip": "layouts\\partials\\header.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-14T18:01:42.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "menu.html",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\menu.html",
-              "RelativeDocumentMoniker": "layouts\\partials\\menu.html",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\partials\\menu.html",
-              "RelativeToolTip": "layouts\\partials\\menu.html",
-              "ViewState": "AgIAAB4AAAAAAAAAAAD4vzIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-14T18:01:41.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "single.html",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\single.html",
-              "RelativeDocumentMoniker": "layouts\\_default\\single.html",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\single.html",
-              "RelativeToolTip": "layouts\\_default\\single.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-14T18:00:47.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "baseof.html",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\baseof.html",
-              "RelativeDocumentMoniker": "layouts\\_default\\baseof.html",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\baseof.html",
-              "RelativeToolTip": "layouts\\_default\\baseof.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-14T18:00:41.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "list.html",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\list.html",
-              "RelativeDocumentMoniker": "layouts\\_default\\list.html",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\_default\\list.html",
-              "RelativeToolTip": "layouts\\_default\\list.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-14T18:00:40.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\index.html",
-              "RelativeDocumentMoniker": "layouts\\index.html",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\layouts\\index.html",
-              "RelativeToolTip": "layouts\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-14T17:59:16.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\assets\\css\\style.css",
-              "RelativeDocumentMoniker": "assets\\css\\style.css",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\assets\\css\\style.css",
-              "RelativeToolTip": "assets\\css\\style.css",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-14T17:59:02.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "content.yml",
-              "DocumentMoniker": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\data\\content.yml",
-              "RelativeDocumentMoniker": "data\\content.yml",
-              "ToolTip": "C:\\Users\\wmans\\OneDrive\\Desktop\\Git Projects\\website\\data\\content.yml",
-              "RelativeToolTip": "data\\content.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-01-27T07:14:53.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:33:19.008Z"
             }
           ]
         }

@@ -4,15 +4,15 @@
     "\\assets",
     "\\assets\\images",
     "\\assets\\images\\portfolio",
-    "\\resources",
     "\\resources\\_gen",
     "\\resources\\_gen\\images",
     "\\resources\\_gen\\images\\images",
     "\\resources\\_gen\\images\\images\\portfolio",
     "\\static",
     "\\static\\images",
+    "\\themes",
     "\\themes\\port-hugo"
   ],
-  "SelectedNode": "\\static\\images\\logo-dark.svg",
+  "SelectedNode": "\\themes\\port-hugo\\exampleSite\\static\\images",
   "PreviewInSolutionExplorer": false
 }
