@@ -45,20 +45,28 @@ skill:
   title: 'SKILLS'
   showpercent: false
   skill_list:
-    - name: 'C++'
-      percentage: '85%'
-
+   
     - name: 'MASM'
       percentage: '93%'
 
-    - name: 'C#'
-      #percentage: '25%'
 
     - name: 'Unreal'
       #percentage: '100%'
     - name: 'Unity'
       #percentage: '100%'
 
+    - name: 'C++/C#/C'
+
+    - name: 'Public Speaking'
+  
+    - name: 'Agile Devlopment Methods'
+  
+    - name: 'Data Structures & Algorithms'
+    - name: 'MASM'
+  
+    - name: 'OpenGL/GLSL'
+  
+    - name: 'Discrete Math'
 
 ######################### funfacts #############################3
 funfacts:

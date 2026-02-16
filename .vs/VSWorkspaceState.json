@@ -3,13 +3,8 @@
     "",
     "\\content",
     "\\data",
-    "\\resources\\_gen",
-    "\\resources\\_gen\\images",
-    "\\resources\\_gen\\images\\images",
     "\\static",
-    "\\static\\images",
-    "\\themes\\port-hugo"
+    "\\static\\images"
   ],
-  "SelectedNode": "\\static\\images\\ProfilePhoto.jpg",
   "PreviewInSolutionExplorer": false
 }
