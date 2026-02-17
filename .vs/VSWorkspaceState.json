@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
     "\\data",
     "\\static",
     "\\static\\images"
   ],
+  "SelectedNode": "\\data\\content.yml",
   "PreviewInSolutionExplorer": false
 }

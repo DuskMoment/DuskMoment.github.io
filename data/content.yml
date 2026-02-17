@@ -45,11 +45,6 @@ skill:
   title: 'SKILLS'
   showpercent: false
   skill_list:
-   
-    - name: 'MASM'
-      percentage: '93%'
-
-
     - name: 'Unreal'
       #percentage: '100%'
     - name: 'Unity'
