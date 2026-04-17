@@ -18,7 +18,7 @@ about:
   enable: true
   image: 'images/catProfile.jpg'
   title: 'Whats Up Guys'
-  content: My Name is William Mansfield. I have a Bachlors of Science in Game Programming from Champlain College, and I am a Systems and Tools Programmer. I have be playing games with my dad ever scince I was a kid and I wanted to peruse that passion as a career. Some of my favorite games are Gears of War and Overwatch! Located below is my resume and demo reel. If you think anything is intreseting please feel free to reach out! {{<youtube MlpqWGjduM>}}
+  content: My Name is William Mansfield. I have a Bachlors of Science in Game Programming from Champlain College, and I am a Systems and Tools Programmer. I have be playing games with my dad ever scince I was a kid and I wanted to peruse that passion as a career. Some of my favorite games are Gears of War and Overwatch! Located below is my resume and demo reel. If you think anything is intreseting please feel free to reach out! {{< youtube 0RKpf3rK57I >}}
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'

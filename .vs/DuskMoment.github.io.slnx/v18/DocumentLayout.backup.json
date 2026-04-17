@@ -34,7 +34,8 @@
               "RelativeToolTip": "exampleSite\\archetypes\\default.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-17T21:34:03.182Z"
+              "WhenOpened": "2026-04-17T21:34:03.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -46,7 +47,8 @@
               "RelativeToolTip": "archetypes\\default.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-17T21:33:56.565Z"
+              "WhenOpened": "2026-04-17T21:33:56.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +58,7 @@
               "RelativeDocumentMoniker": "data\\content.yml",
               "ToolTip": "C:\\Users\\wmans\\Desktop\\Git Projects\\DuskMoment.github.io\\data\\content.yml",
               "RelativeToolTip": "data\\content.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGwAAABXAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-04-17T21:31:51.908Z",
               "EditorCaption": ""
