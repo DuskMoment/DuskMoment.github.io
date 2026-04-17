@@ -18,7 +18,7 @@ about:
   enable: true
   image: 'images/catProfile.jpg'
   title: 'Whats Up Guys'
-  content: My Name is William Mansfield. I have a degree in game programming, and I am a Systems and Tools Programmer. Some of my favorite games are Gears of War and Overwatch! You can download my resume below.
+  content: My Name is William Mansfield. I have a Bachlors of Science in Game Programming from Champlain College, and I am a Systems and Tools Programmer. I have be playing games with my dad ever scince I was a kid and I wanted to peruse that passion as a career. Some of my favorite games are Gears of War and Overwatch! Located below is my resume and demo reel. If you think anything is intreseting please feel free to reach out! {{<youtube MlpqWGjduM>}}
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
@@ -34,7 +34,6 @@ experience:
       company: Champlain College
       duration: '2025-Current'
       content: For my senior year of college, I was a peer coach at Champlain College and tutored students in game programming courses, from game architecture to graphics!
-
     - name: Unity Engineer Intern
       company: WonderWall JP
       duration: 'May 2025 - June 2025'
@@ -52,17 +51,18 @@ skill:
 
     - name: 'C++/C#/C'
 
-    - name: 'Public Speaking'
-  
-    - name: 'Agile Devlopment Methods'
-  
-    - name: 'Data Structures & Algorithms'
     - name: 'MASM'
   
     - name: 'OpenGL/GLSL'
   
     - name: 'Discrete Math'
 
+    - name: 'Data Structures & Algorithms'
+
+    - name: 'Public Speaking'
+  
+    - name: 'Agile Devlopment Methods'
+  
 ######################### funfacts #############################3
 funfacts:
   enable: false
@@ -84,27 +84,26 @@ portfolio:
   enable: true
   title: 'MY WORK'
   portfolio_list:
-    - name: Red Flame And Fable - WIP
-      subtitle: Red Flame And Fable - WIP
+    - name: Red Flame And Fable - Backend Programmer and Repo Manager
+      subtitle: Red Flame And Fable
       image: 'images/portfolio/redlogoblack.png'
-      url: https://captain322.itch.io/redflameandfable
-      description: This is my current capstone game, Red Flame and Fable! For this game, I worked on the AI and the darkness mechanic. I was also the repo manager on this project and responsible for code reviews and merges.
+      url: https://store.steampowered.com/app/4374730/Red_Flame__Fable/
+      description: This is my current capstone game, Red Flame and Fable! Its a 2D acton platformer made in unity over the course of two semesters. Heavliy inspired by games like Darkwood and Holo Knight, I tapped into Unity's lighting system inorder to create dynmic vision that unrenders enemys not in LOS of the player. Also for this project I was responsable for the flower and lantern system aswell as the enemy and boss AI
 
-    - name: Touhou99
+    - name: Touhou99 - Network Programmer and Enemy Wave Tools Programmer
       subtitle: Touhou99
       image: 'images/portfolio/touhou.png'
       url: https://tristansa.itch.io/touhou99
-      description: A Touhou-and Tetris-inspired bullet-hell game. For this game, I implemented the bullet pattern system, wave system, and AI creation, as well as some networking.
+      description: Touhou99 is a networked bullet game inspired by games like Touhou and Tetres-99. This Game was create by a team of 3 people using Unity and SteamGameNetworking sockets. For this game I create a tool for the rest of the team to easily create enemy wave patterns as well as custom bullet attacks. So grab a friend and click the link below to give it a try!
 
-    - name: Bisque Bash
+    - name: Bisque Bash - Network Programmer
       subtitle: Bisque Bash  
       image: 'images/portfolio/bisqueBash.png'
       url: https://zacharyalexander.itch.io/bisque-bash
-      description: Ubisoft Game Labs Competition, best art direction runner-up. You play as two claylings trying to escape a kiln. I worked on the networking for this game using the Unreal Networking Subsystem. This game also ran on a dedicated server, meaning I also have some AWS experience.
+      description: Bisque Bash is a two player physics puzzle game where two Claylings have to escape the kiln before they get refired! Bisque Bash was created for the Ubisoft Game Labs Competition in 2025, and was best art direction runner-up. For this project I worked with a interdisiplanry team of eight other people where I was responsable for the networking and physics systems. This was acomplished using a mix of the Unreal networking subsystem and custom C++ code. This game was also cross complied for linux so it could be hosted on a AWS EC2 for a streamlined judging experience. 
 
-    - name: RNG Dice roller using AVR
+    - name: RNG Dice roller using AVR  - MASM Engineer
       subtitle: RNG Dice roller using AVR  
       image: 'images/portfolio/Bomb.png'
       url: https://drive.google.com/file/d/1ElBfBSOOwV59lHSdFo-LZEtuceg1TGt3/view
-      description: This is a research paper using a arduino and AVR code to create a visual dice roller     
-        
+      description: I am a avid player of dnd so while doing some exploration into the world of aseembly and micro controllers I wanted to create somthing that I could use. So I created a RNG dice roller using AVR and a arduio to control a LED pannel to show the number. I also created a reseach paper on my experiment using overleaf and LATEX.        
