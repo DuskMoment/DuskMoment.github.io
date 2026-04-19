@@ -86,7 +86,7 @@ portfolio:
   portfolio_list:
     - name: Red Flame And Fable - Backend Programmer and Repo Manager
       subtitle: Red Flame And Fable
-      image: 'images/portfolio/redlogoblack.png'
+      image: 'images/portfolio/RFFlogoAI.png'
       url: https://store.steampowered.com/app/4374730/Red_Flame__Fable/
       description: This is my current capstone game, Red Flame and Fable! It's a 2D action platformer made in Unity with a team of 13 and over 2 semesters. Heavily inspired by games like Darkwood and Holo Knight, I tapped into Unity's lighting system in order to create dynamic vision that unrenders enemies not in LOS of the player. Also, for this project, I was responsible for the flower and lantern system and the enemy and boss AI.
 
