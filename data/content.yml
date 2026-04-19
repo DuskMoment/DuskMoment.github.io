@@ -16,7 +16,7 @@ hero:
 ########################### About ##################################
 about:
   enable: true
-  image: 'images/catProfile.jpg'
+  image: 'images/StudioPhoto.jpg'
   title: 'Whats Up Guys'
   content:  My Name is William Mansfield. I have a Bachelor of Science in Game Programming from Champlain College, and I am a Systems and Tools Programmer. I have been playing games with my dad ever since I was a kid, and I wanted to pursue that passion as a career. Some of my favorite games are Gears of War and Overwatch! Below are my resume and demo reel. If you think anything is interesting, please feel free to reach out! {{< youtube Vy7OcZ9Ulw0 >}}
   button:
