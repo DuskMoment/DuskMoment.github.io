@@ -94,7 +94,7 @@ portfolio:
       subtitle: Touhou99
       image: 'images/portfolio/touhou.png'
       url: https://tristansa.itch.io/touhou99
-      description: Touhou99 is a networked bullet-hell game inspired by Touhou and Tetris-99. This Game was created by a team of 3 people using Unity and Steam Game Networking sockets. For this game, I created a tool for the rest of the team to easily create enemy wave patterns and custom bullet attacks. So grab a friend and click the link below to give it a try!
+      description: Touhou99 is a networked bullet-hell game inspired by Touhou and Tetris-99. A team of three people created this game using Unity and Steam Game Networking sockets. I developed a data-driven tool that enabled easy generation of enemy wave patterns and custom bullet attacks, which the rest of the team used to create all the attacks and patterns in the game.
 
     - name: Bisque Bash - Network Programmer
       subtitle: Bisque Bash  
@@ -106,4 +106,4 @@ portfolio:
       subtitle: RNG Dice roller using AVR  
       image: 'images/portfolio/Bomb.png'
       url: https://drive.google.com/file/d/1ElBfBSOOwV59lHSdFo-LZEtuceg1TGt3/view
-      description: I am an avid player of D&D, so while exploring the world of assembly and microcontrollers, I wanted to create something I could use. So I created an RNG dice roller using an AVR and an Arduino to control an LED panel to show the number. I also created a research paper on my experiment using Overleaf and LATEX.        
+      description: I am an avid D&D player, so while exploring the world of assembly and microcontrollers, I wanted to create something I could use. So I created an RNG dice roller using an AVR and an Arduino to control an LED panel to show the number. During this project, I created a research paper on my experiment using Overleaf and LATEX.        
