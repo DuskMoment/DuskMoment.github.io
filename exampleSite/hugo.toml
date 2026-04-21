@@ -33,10 +33,10 @@ link = "plugins/hugrid/hugrid.min.js"
 ############################## navigation ###############################
 
 # main menu
-[[menu.main]]
-name = "Home"
-URL = "#home"
-weight = 1
+#[[menu.main]]
+#name = "Home"
+#URL = "#home"
+#weight = 1
 
 [[menu.main]]
 name = "About me"
@@ -85,4 +85,4 @@ link = "https://medium.com/@gusburton"
 
 contentDir = "content/english"
 weight = 1
-home = "Home"
+#home = "Home"
