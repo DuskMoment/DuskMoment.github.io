@@ -84,8 +84,8 @@ portfolio:
   enable: true
   title: 'MY WORK'
   portfolio_list:
-    - name: Red Flame And Fable - Backend Programmer and Repo Manager
-      subtitle: Red Flame And Fable
+    - name: Red Flame and Fable - Backend Programmer and Repo Manager
+      subtitle: Red Flame and Fable
       image: 'images/portfolio/RFF.png'
       url: https://store.steampowered.com/app/4374730/Red_Flame__Fable/
       description: This is my current capstone game, Red Flame and Fable! It's a 2D action platformer made in Unity with a team of 13 over 2 semesters. Heavily inspired by games like Darkwood and Hollow Knight, I tapped into Unity's lighting system to create dynamic vision that unrenders enemies not in the player's LOS. One of my other responsibilities for this project was the flower and lantern system, which was designed to be scaled using scriptable objects for any number of flower types and abilities.
@@ -102,8 +102,8 @@ portfolio:
       url: https://zacharyalexander.itch.io/bisque-bash
       description: Bisque Bash is a two-player physics puzzle game where two Claylings have to escape the kiln before they get refired! Bisque Bash was created for the Ubisoft Game Labs Competition in 2025 and was a runner-up for best art direction. For this project, I worked with an interdisciplinary team of 8 people, in which I was responsible for networking and physics systems. This was accomplished using a blend of the Unreal networking subsystem and custom C++ code. This game was also cross-compiled for Linux, so it could be hosted on an AWS EC2 for a streamlined judging experience. 
 
-    - name: RNG Dice roller using AVR  - MASM Engineer
-      subtitle: RNG Dice roller using AVR  
+    - name: RNG Dice Roller using AVR  - MASM Engineer
+      subtitle: RNG Dice Roller using AVR  
       image: 'images/portfolio/Bomb.png'
       url: https://drive.google.com/file/d/1ElBfBSOOwV59lHSdFo-LZEtuceg1TGt3/view
       description: I am an avid D&D player, so while exploring the world of assembly and microcontrollers, I wanted a tool that could enhance my gameplay experience. That drive led to the creation of an RNG dice roller using an AVR and an Arduino to control an LED panel to display the randomly generated number. Over the duration of this project, I wrote a research paper on my experiment using Overleaf and LATEX.        
