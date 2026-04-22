@@ -17,7 +17,7 @@ hero:
 about:
   enable: true 
   image: 'images/StudioPhoto.jpg'
-  title: Whats Up Guy's
+  title: What's Up Guys
   content:  My Name is William Mansfield. I have a Bachelor of Science in Game Programming from Champlain College, and I am a Systems and Graphics Programmer. I have been playing games with my dad ever since I was a kid, and I wanted to pursue that passion as a career. Some of my favorite games are Gears of War and Overwatch! Below are my resume and demo reel. If you find anything interesting my work or have any questions, please feel free to reach out! {{< youtube Q90sirpB9rs >}}
   button:
     enable: true
@@ -37,7 +37,7 @@ experience:
     - name: Unity Engineer Intern
       company: WonderWall JP
       duration: 'May 2025 - June 2025'
-      content: I worked on an international team to create features for the Golfin game on the App Store. I was responsible for screen shake, UI tweaks for account validation, and some golfer IK. Click [here](https://play.google.com/store/apps/details?id=com.nextinnovation.golfingame&hl=en-us) for the store page.
+      content: I worked on an international team to create features for Golfin Game on the App Store. I was responsible for screen shake, UI tweaks for account validation, and some golfer IK. Click [here](https://play.google.com/store/apps/details?id=com.nextinnovation.golfingame&hl=en-us) for the store page.
 ############################### Skill #################################
 skill:
   enable: true
@@ -86,7 +86,7 @@ portfolio:
   portfolio_list:
     - name: Red Flame And Fable - Backend Programmer and Repo Manager
       subtitle: Red Flame And Fable
-      image: 'images/portfolio/RFFlogoAI.png'
+      image: 'images/portfolio/RFF.png'
       url: https://store.steampowered.com/app/4374730/Red_Flame__Fable/
       description: This is my current capstone game, Red Flame and Fable! It's a 2D action platformer made in Unity with a team of 13 and over 2 semesters. Heavily inspired by games like Darkwood and Hollow Knight, I tapped into Unity's lighting system to create dynamic vision that unrenders enemies not in the player's LOS. One of my other responsibilities, for this project, was the flower and lantern system, which was designed to be scaled using scriptable objects for any number of flower types and abilities.
 
