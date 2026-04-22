@@ -6,7 +6,7 @@ hero:
   occupations:
     - 'Game Programmer'
     - 'Esports Player'
-    - 'Hardware hobbiest'
+    - 'Hardware Hobbiest'
 
   # hero background image
   bg_image: 'images/JP_Backround.png'
@@ -17,8 +17,8 @@ hero:
 about:
   enable: true 
   image: 'images/StudioPhoto.jpg'
-  title: 'Whats Up Guys'
-  content:  My Name is William Mansfield. I have a Bachelor of Science in Game Programming from Champlain College, and I am a Systems and Graphics Programmer. I have been playing games with my dad ever since I was a kid, and I wanted to pursue that passion as a career. Some of my favorite games are Gears of War and Overwatch! Below are my resume and demo reel. If you think anything is interesting, please feel free to reach out! {{< youtube Q90sirpB9rs >}}
+  title: Whats Up Guy's
+  content:  My Name is William Mansfield. I have a Bachelor of Science in Game Programming from Champlain College, and I am a Systems and Graphics Programmer. I have been playing games with my dad ever since I was a kid, and I wanted to pursue that passion as a career. Some of my favorite games are Gears of War and Overwatch! Below are my resume and demo reel. If you find anything interesting my work or have any questions, please feel free to reach out! {{< youtube Q90sirpB9rs >}}
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
@@ -33,7 +33,7 @@ experience:
     - name: Peer Tutor
       company: Champlain College
       duration: '2025-Current'
-      content: During my senior year of college, I was recommended by faculty for the Peer Tutor position, where I helped answer questions and teach topics related to the game programming course. Some of the courses I helped teach, but not limited to, include game architecture, computer architecture, and graphics 1 and 2.
+      content: During my senior year of college, I was recommended by faculty for the Peer Tutor position, where I helped answer questions and teach topics related to the game programming course. Some of the courses I helped teach include, Game Architecture, Computer Architecture, and Graphics 1 & 2.
     - name: Unity Engineer Intern
       company: WonderWall JP
       duration: 'May 2025 - June 2025'
