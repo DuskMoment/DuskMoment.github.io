@@ -27,9 +27,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          submodules: true
+          submodules: false
           fetch-depth: 0
           persist-credentials: false
+      - name: Fetch theme submodule
+        run: git submodule update --init --depth=1 -- themes/port-hugo
       - name: Setup Go
         uses: actions/setup-go@v6
         with:
